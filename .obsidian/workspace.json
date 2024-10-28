@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "87a7ae2bb0dccb3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "03366cdff9a629bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8ad202014922128",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EstadiasProfesionales/Cronograma De Actividades.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cronograma De Actividades"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9ff254731c23db8",
+    "type": "split",
+    "children": [
+      {
+        "id": "498296e6ea3b774f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "361e6d04e0cd2ba5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "d1a042c71d44cf39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "84021b3ae043c1f8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bfd4db549bc026b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "25cd40ae598d0cde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9ddeec3004490ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "EstadiasProfesionales/Cronograma De Actividades.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Cronograma De Actividades"
+            }
+          },
+          {
+            "id": "99775d8890d0a7ec",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "EstadiasProfesionales/Cronograma De Actividades.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Cronograma De Actividades"
+            }
+          },
+          {
+            "id": "23057c78feefbc32",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "bb517683879ace7c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "EstadiasProfesionales/Cronograma De Actividades.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Cronograma De Actividades"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "e8ad202014922128",
+  "lastOpenFiles": [
+    "EstadiasProfesionales/segmento2/Rodriguez_Braulio_R6_U2.pdf",
+    "EstadiasProfesionales/Cronograma De Actividades.md"
+  ]
+}

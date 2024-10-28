@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "23de5f60a50c3d96",
+    "type": "split",
+    "children": [
+      {
+        "id": "f484894b6bfff41b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7383d43100c2bd9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "36ba2bb515ce0010",
+    "type": "split",
+    "children": [
+      {
+        "id": "00a0f5ffcfd1c27e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2efa0a88a5c3c66f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "3c5df8fdefa1d6e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "da745d4ca4eb68b4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4a81deba54c8d1c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9f9743787fb8b5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd09cd630fe78b76",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "segmento2/Rodriguez_Braulio_R6_U2.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Rodriguez_Braulio_R6_U2"
+            }
+          },
+          {
+            "id": "637dcb1202442946",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "segmento2/Rodriguez_Braulio_R6_U2.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Rodriguez_Braulio_R6_U2"
+            }
+          },
+          {
+            "id": "e1fa71ed41d9b581",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "1664f5cc4dbdf787",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "segmento2/Rodriguez_Braulio_R6_U2.pdf"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Rodriguez_Braulio_R6_U2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "2efa0a88a5c3c66f",
+  "lastOpenFiles": []
+}
